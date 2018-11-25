@@ -1,0 +1,21 @@
+1. Grasshopper - debug -> https://www.codewars.com/kata/reviews/5623ccd5762213e8dc0000c4/groups/56256125746251051d00001c
+
+2. String Templates - Bug Fixing #5 -> https://www.codewars.com/kata/reviews/55c97c5cc941432d52000098/groups/55c9959fe11a8eff9f000034
+
+3. Fix the Loop -> https://www.codewars.com/kata/reviews/55ca4402b1a4114ef800008a/groups/55ca4402b1a4114ef800008c
+
+4. How do i compare numbers -> https://www.codewars.com/kata/reviews/55d892d3ce5342c518000107/groups/55d892d3ce5342c518000109
+
+5. Unexpected Parsing -> https://www.codewars.com/kata/reviews/564c83c2cd44043d9b000017/groups/564c864dcfe4cd23aa000056
+
+6. 101 Dalmations - Squash the bugs not the dogs -> https://www.codewars.com/kata/reviews/56f6b7cd9b6590d2d80000e8/groups/56f7e06bf726f9643f00098b
+
+7. Fix the Bugs(Syntax) - My first Kata -> https://www.codewars.com/kata/reviews/56c9906d186f8221a0000037/groups/56c997730844d896c600078c
+
+8. Squash the Bugs -> https://www.codewars.com/kata/reviews/56f7d4c38abc385c18000002/groups/57a10954cf1fa5e3d00006f8
+
+9. Is this my tail? -> https://www.codewars.com/kata/reviews/56f7d47f1dc33806c8000071/groups/581145af04adbb026b00004c
+
+10. Fix your code before the Garden dies! -> https://www.codewars.com/kata/reviews/5716bac801b0bfa81c000049/groups/5717d8595122b81fb200170b
+
+11. Bug fix - Quick Sort -> https://www.codewars.com/kata/reviews/56bdaa2ebe8f29257c000087/groups/5bfaeae91a16b0ea85000167
